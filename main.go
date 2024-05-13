@@ -1,9 +1,9 @@
 package main
 
 import (
-	"calc/app"
 	"log"
 	"os"
+	"serversearch/app"
 )
 
 func main() {

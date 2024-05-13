@@ -1,4 +1,4 @@
-module calc
+module serversearch
 
 go 1.22.2
 
